@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu">
+        <item>자주하는 질문</item>
+        <item>공유주차장</item>
+        <item>제휴주차장</item>
+        <item>월주차</item>
+        <item>기타</item>
+        <item>주차장은 역시 모두의 주차장이지~</item>
+    </string-array>
+</resources>
